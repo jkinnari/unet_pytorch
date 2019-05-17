@@ -13,7 +13,7 @@ Unet Pytorch course project for course CS-E4890, project by Jouko Kinnari
 
 The notebook contains ample comments for easy follow-up.
 
-## Viewing the implementation without setting up the Jupyter Notebook environment?
+## How to view the implementation without setting up the Jupyter Notebook environment?
 Click the [unet.ipynb](https://github.com/jkinnari/unet_pytorch/blob/master/unet.ipynb) file.
 
 ## On performance of the model
