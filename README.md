@@ -8,6 +8,7 @@ Unet Pytorch course project for Aalto University course CS-E4890
 - Download [Kitti semantic segmentation data](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015)
 - Start up Jupyter Notebook and load the notebook
 - Adjust the paths to data according to where you downloaded the Kitti data
+- The notebook contains ample comments for easy follow-up.
 - Enjoy responsibly
 
 ## Pre-taught model
