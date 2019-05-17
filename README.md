@@ -1,5 +1,5 @@
 # unet_pytorch
-Unet Pytorch course project for Aalto University course CS-E4890, project by Jouko K_____i
+Unet Pytorch course project for Aalto University course CS-E4890, project by Jouko Kinnari
 ## Setting up
 - Fetch repository on your computer
 - Install Jupyter Notebook and Conda
