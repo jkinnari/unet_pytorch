@@ -1,0 +1,27 @@
+name: unet
+channels:
+- pytorch
+- defaults
+- conda-forge
+dependencies:
+- python==3.7.3
+- pandas==0.24.2
+- scipy==1.2.1
+- numpy==1.16.2
+- pytest
+- notebook
+- seaborn
+- pillow
+- freetype
+- matplotlib==3.0.3
+- scikit-learn==0.20.3
+- spyder
+- pip
+- pytorch==1.0.1
+- torchvision==0.2.2
+- nbstripout
+- pycocotools
+- scikit-image==0.15.0
+- pip:
+  - tornado
+
