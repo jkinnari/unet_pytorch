@@ -13,4 +13,7 @@ Unet Pytorch course project for Aalto University course CS-E4890, project by Jou
 The notebook contains ample comments for easy follow-up.
 
 ## How to view the implementation without setting up the Jupyter Notebook environment?
-A HTML rendering of the notebook is also available in this repository to view the notebook without starting Jupyter Notebook. The HTML file is too big to show on Github directly. Please [download the html file](https://github.com/jkinnari/unet_pytorch/raw/master/unet.html) on your computer and open it in a web browser.
+A HTML rendering of the notebook is also available in this repository to view the notebook without starting Jupyter Notebook. The HTML file is too big to show on Github directly. Please [download the html file](https://github.com/jkinnari/unet_pytorch/raw/master/unet.html) (right click on the link and select Download) on your computer and open it from a computer in a web browser.
+
+## On performance of the model
+The model requires improvements for satisfactory performance (including data augmentation and tiling of input data). Please don't use this as a reference as such.
